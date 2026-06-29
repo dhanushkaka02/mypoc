@@ -1,0 +1,46 @@
+21:06:20.770[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+21:06:56.964[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+21:06:59.014[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+21:06:01.945[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+21:06:04.660[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Temp password displayed: VvPp6J6G
+21:06:06.745[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Intern onboarded successfully and visible in members list
+21:06:06.765[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate intern empId - Start
+21:06:08.044[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate empId error verified. Message: Conflict
+21:06:08.045[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Promote intern to CR - Start
+21:06:08.175[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Intern INT15667 successfully promoted to CR
+21:06:08.176[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit - Start
+21:06:09.372[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit error verified. Message: 
+21:06:09.376[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-020: Demote CR to Intern - Start
+21:06:09.609[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-020: CR INT15667 successfully demoted back to INTERN
+21:06:34.319[main] INFO  testcases.TS_07_POC_LeaveInbox - Ths is starting
+21:06:36.206[main] INFO  testcases.TS_07_POC_LeaveInbox - TS-07 BeforeClass: ensuring POC is logged in
+21:06:36.826[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-021: Approve leave request - Start
+21:06:39.851[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-021: Leave approved successfully. UI message: Approved leave for dd.
+21:06:39.865[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-022: Reject leave request - Start
+21:06:45.272[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-022: Leave rejected successfully. UI message: Rejected leave for dd.
+21:06:45.272[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-023: Mark UL on leave request - Start
+21:06:34.683[main] INFO  testcases.TS_07_POC_LeaveInbox - Ths is starting
+21:06:36.464[main] INFO  testcases.TS_07_POC_LeaveInbox - TS-07 BeforeClass: ensuring POC is logged in
+21:06:37.250[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-021: Approve leave request - Start
+21:06:50.015[main] INFO  testcases.TS_07_POC_LeaveInbox - Ths is starting
+21:06:52.170[main] INFO  testcases.TS_07_POC_LeaveInbox - TS-07 BeforeClass: ensuring POC is logged in
+21:06:52.852[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-021: Approve leave request - Start
+21:06:57.000[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-021: Leave approved successfully. UI message: Approved leave for qwer.
+21:06:57.017[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-022: Reject leave request - Start
+21:06:02.380[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-022: Leave rejected successfully. UI message: Rejected leave for qwer.
+21:06:02.380[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-023: Mark UL on leave request - Start
+21:06:03.800[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-023: Leave marked as UL successfully. UI message: Marked UL for qwer.
+21:06:03.803[main] INFO  testcases.TS_07_POC_LeaveInbox - TC-POC-024: Attendance reflects leave action - Start
+21:06:07.067[main] INFO  testcases.TS_07_POC_LeaveInbox - final test
+21:06:04.229[main] INFO  testcases.TS_08_POC_SummaryAndSheet - Ths is starting
+21:06:06.083[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TS-08 BeforeClass: ensuring POC is logged in and BATCH100 cohort is selected
+21:06:08.450[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-025: Cohort Summary range switching - Start
+21:06:11.566[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-025 Step 1 (today): 44 summary rows
+21:06:22.166[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-026: Attendance Sheet matrix - Start
+21:06:52.541[main] INFO  testcases.TS_08_POC_SummaryAndSheet - Ths is starting
+21:06:54.353[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TS-08 BeforeClass: ensuring POC is logged in and BATCH100 cohort is selected
+21:06:56.902[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-025: Cohort Summary range switching - Start
+21:06:00.516[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-025 Step 1 (today): 44 summary rows
+21:06:07.429[main] INFO  testcases.TS_08_POC_SummaryAndSheet - Ths is starting
+21:06:09.116[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TS-08 BeforeClass: ensuring POC is logged in and BATCH100 cohort is selected
+21:06:11.557[main] INFO  testcases.TS_08_POC_SummaryAndSheet - TC-POC-025: Cohort Summary range switching - Start

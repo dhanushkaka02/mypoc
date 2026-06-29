@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportUtility"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="Admin Tests">
+        <classes>
+<!--            <class name="testcases.TS_01_ADMIN_LOGIN_AND_VALIDATION"/>-->
+<!--            <class name="testcases.TS_03_POCLOGIN"/>-->
+<!--            <class name="testcases.TS_02_ADMIN_validating_POC"/>-->
+<!--            <class name="testcases.TS_03_POCVALIDATION"/>-->
+<!--            <class name="testcases.TS_02_DuplicatePOC"></class>-->
+<!--            <class name="testcases.TC_006_ADM"></class>-->
+<!--            =============>DHANUSH-->
+<!--            <class name="testcases.TS_04_POC_Login"></class>-->
+<!--            <class name="testcases.TS_05_POC_CohortManagement"></class>-->
+<!--            <class name="testcases.TS_06_POC_InternManagement"></class>-->
+<!--            <class name="testcases.TS_07_POC_LeaveInbox"></class>-->
+            <class name="testcases.TS_08_POC_SummaryAndSheet"></class>
+        </classes>
+    </test>
+</suite>

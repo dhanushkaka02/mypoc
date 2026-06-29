@@ -1,0 +1,46 @@
+22:06:14.601[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Intern INT206 successfully promoted to CR
+22:06:14.601[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit - Start
+22:06:25.017[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-020: Demote CR to Intern - Start
+22:06:49.768[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:53.137[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+22:06:55.792[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+22:06:58.300[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Temp password displayed: 7tmPdU73
+22:06:59.710[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Intern onboarded successfully and visible in members list
+22:06:59.717[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate intern empId - Start
+22:06:02.060[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate empId error verified. Message: Conflict
+22:06:02.064[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Promote intern to CR - Start
+22:06:02.228[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit - Start
+22:06:03.907[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit error verified. Message: 
+22:06:26.262[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:32.331[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+22:06:39.595[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+22:06:42.794[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Temp password displayed: mxDzcG4P
+22:06:44.058[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Intern onboarded successfully and visible in members list
+22:06:44.058[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate intern empId - Start
+22:06:46.972[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate empId error verified. Message: Conflict
+22:06:46.973[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Promote intern to CR - Start
+22:06:01.905[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:11.775[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+22:06:17.526[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+22:06:48.973[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:50.704[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+22:06:53.237[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+22:06:55.480[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Temp password displayed: e4c5CNV7
+22:06:57.113[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Intern onboarded successfully and visible in members list
+22:06:57.113[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate intern empId - Start
+22:06:59.420[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate empId error verified. Message: Conflict
+22:06:59.429[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Promote intern to CR - Start
+22:06:20.139[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:21.834[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
+22:06:25.441[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Onboard intern - Start
+22:06:28.103[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Temp password displayed: u9XJ2wTv
+22:06:30.071[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-016: Intern onboarded successfully and visible in members list
+22:06:30.071[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate intern empId - Start
+22:06:31.519[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-017: Duplicate empId error verified. Message: Conflict
+22:06:31.526[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Promote intern to CR - Start
+22:06:31.741[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-018: Intern INT1111 successfully promoted to CR
+22:06:31.741[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit - Start
+22:06:32.595[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-019: Max CR limit error verified. Message: 
+22:06:32.597[main] INFO  testcases.TS_06_POC_InternManagement - TC-POC-020: Demote CR to Intern - Start
+22:06:28.011[main] INFO  testcases.TS_06_POC_InternManagement - Ths is starting
+22:06:29.764[main] INFO  testcases.TS_06_POC_InternManagement - TS-06 BeforeClass: ensuring POC is logged in and BATCH100 is selected
